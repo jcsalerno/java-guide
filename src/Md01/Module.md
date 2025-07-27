@@ -1,3 +1,10 @@
+### [What is a variable?](#variable)
+
+A variable is a name defined by the programmer, to which a value belonging to a specific data type is associated, stored in a set of memory locations in the computer. <br>
+You can compare the variable to a box, where you store an item and later have access to that item you stored.<br>
+A good practice is to identify (or describe) the variable based on its purpose.<br>
+Thus, every variable always has a name, a type, and a value (its content).<br>
+
 ### Primitive Data Types
 
 A data type defines a particular set of values that can be represented within a program, for which specific operations can be defined. <br>
