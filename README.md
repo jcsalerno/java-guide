@@ -2,13 +2,6 @@
 
 ## This guide is based on the premise of documenting my Java studies and also serving as a study resource.
 
-### [What is a variable?](#variable)
-
-A variable is a name defined by the programmer, to which a value belonging to a specific data type is associated, stored in a set of memory locations in the computer. <br>
-You can compare the variable to a box, where you store an item and later have access to that item you stored.<br>
-A good practice is to identify (or describe) the variable based on its purpose.<br>
-Thus, every variable always has a name, a type, and a value (its content).<br>
-
 # [Module 1](src/Md01/Module.md)
 
 ## Java Basics: Primitive Data Types, User Input, and Exercises
@@ -20,8 +13,11 @@ The Java language provides a wide range of operators designed for assignment, ar
 
 # [Module 3](src/Md03/Module.md)
 
-## Relational, Logical, and Control Structures in Java
+## Relational and Logical in Java
 
 # [Module 4](src/Md04/Module.md)
 
+## Conditional repetition structures in Java
+Conditional repetition structures are implemented through loops and conditional structures. The main repetition structures are for and while, while the most common conditional structures are if and else.
 
+# [Module 5](src/Md05/Module.md)
