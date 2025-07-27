@@ -1,7 +1,7 @@
 package Md02;
 import java.util.Scanner;
 
-public class Exercise002 {
+public class Exercise003 {
     public static void main(String[] args) {
 
         // Program to calculate the area of a rectangle
